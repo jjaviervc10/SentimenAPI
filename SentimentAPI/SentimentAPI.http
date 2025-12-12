@@ -1,0 +1,6 @@
+@SentimentAPI_HostAddress = http://localhost:5185
+
+GET {{SentimentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
